@@ -3,6 +3,8 @@
 
 A raster mosaicing task focused on generating a cloudless mosaic image by seamlessly merging multiple georeferenced satellite raster tiles (GeoTIFFs). The code should efficiently combine overlapping tiles with consistent spatial resolution and coordinate reference systems, ensuring smooth transitions between scenes. The final output must be a clean, cloud-free mosaic, properly georeferenced and visualized using Python-based geospatial libraries. The complete workflow should be demonstrated in a Jupyter Notebook (Kaggle/Colab) using the provided sample raster tiles.
 
+https://objectstore.e2enetworks.net/btechtasksampledata/data.zip
+
 ## Key Requirements
 
 1. Design a Python-based workflow to merge multiple adjacent GeoTIFF raster tiles into a single cloudless mosaic.
