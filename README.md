@@ -36,14 +36,18 @@ The final deliverables should include:
 3. Mosaic Creation – Code the logic to merge all tiles into a single seamless raster using suitable geospatial libraries.
    
 4. Overlap and NoData Handling – Implement a clear strategy to manage overlapping regions and missing data.
+
+5. Cloudless Output Quality – Ensure the final mosaic is visually consistent, free from clouds or artefacts.
    
-5. Color Consistency – Maintain uniform visual appearance across tiles to avoid visible tonal differences in the mosaic.
+6. Color Consistency – Maintain uniform visual appearance across tiles to avoid visible tonal differences in the mosaic.
    
-6. Output and Georeferencing Validation – Export the final mosaic as a properly georeferenced GeoTIFF and verifying spatial accuracy and metadata integrity of the output.
+7. Output and Georeferencing Validation – Export the final mosaic as a properly georeferenced GeoTIFF and verifying spatial accuracy and metadata integrity of the output.
    
-7. Visualization and Result Reporting – Present clear visual outputs of the cloudless mosaic and summarize key spatial properties, observations, and results.
+8. Visualization and Result Reporting – Present clear visual outputs of the cloudless mosaic and summarize key spatial properties, observations, and results.
+
+9. Code Efficiency – Write optimized, clean, and well-structured code using appropriate geospatial libraries.
    
-8. Jupyter Notebook Development
+10. Jupyter Notebook Development
 
 Integrate each step into a cohesive, runnable notebook designed for Kaggle/Colab environment. Feel free to develope them locally or use kaggle/collab.
 
