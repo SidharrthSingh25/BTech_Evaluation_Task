@@ -56,7 +56,7 @@ The final deliverables should include:
    
 10. Jupyter Notebook Development
 
-Integrate each step into a cohesive, runnable notebook designed for Kaggle/Colab environment. Feel free to develope them locally or use kaggle/collab.
+Integrate each step into a cohesive, runnable notebook designed for Kaggle/Colab environment. Feel free to develop them locally or use kaggle/collab.
 
 (optional: Include explanatory markdown cells for clarity.)
 
