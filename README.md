@@ -50,7 +50,7 @@ The final deliverables should include:
    
 7. Output and Georeferencing Validation – Export the final mosaic as a properly georeferenced GeoTIFF and verifying spatial accuracy and metadata integrity of the output.
    
-8. Visualization and Result Reporting – Present clear visual outputs of the cloudless mosaic and summarize key spatial properties, observations, and results.
+8. Visualization and Result Reporting – Present clear visual outputs of the cloudless mosaic.
 
 9. Code Efficiency – Write optimized, clean, and well-structured code using appropriate geospatial libraries.
    
