@@ -68,6 +68,6 @@ Export the final detection results in the required output format.
 
 1. Send the link of 'Work Notebook/notebooks' in .ipynb format either by creating github repo or kaggle/collab to 'siddham@arms4ai.com' and 'sidharrth@arms4ai.com'. Make sure to set viewing permission to Public.
    
-2. Last date of Submission is 17/11/2025 17:00:00 IST
+2. Last date of Submission is 18/11/2025 17:00:00 IST
 
 Feel free to reach out to us in case there is any doubt regarding the task over the mentioned emails.
