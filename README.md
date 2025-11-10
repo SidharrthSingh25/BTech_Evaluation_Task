@@ -14,8 +14,9 @@ A raster mosaicing task focused on generating a cloudless mosaic image by seamle
 
 The final deliverables should include:
 1. Output Raster File – cloudless_mosaic.tif
-   1.1 Single, georeferenced GeoTIFF mosaic of the input tiles
-   1.2 Consistent spatial resolution and CRS
+
+   1.1. Single, georeferenced GeoTIFF mosaic of the input tiles
+   1.2. Consistent spatial resolution and CRS
 4. Code Notebook / Script (.ipynb/.py) – Contains your implementation and workflow
 5. README File – Briefly explains:
   i. Libraries used
